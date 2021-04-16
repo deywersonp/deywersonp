@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **looking for job** 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, MySQL, Node & PHP**
 
 - 💬 Ask me about **Everything! If I don't know the answer, I'll look for it !**
 
