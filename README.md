@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deywerson.pereira@gmail.com**
 
-- 🌟 Curiosities about me **a tech lover, PC Gamer, FFXIV player 🖤, anime & books fan and music is part of my soul ❗**
+- 🌟 Curiosities about me **tech lover, PC Gamer, FFXIV player 🖤, anime, books and music fan ❗**
 
 <br>
 
