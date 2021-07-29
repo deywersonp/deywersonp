@@ -11,8 +11,6 @@
   - 😄 Pronouns: <strong>he/him</strong>
 </div>
 
-
-
 <br>
  <div>
   <div style="display: inline_block"><br>
@@ -22,11 +20,7 @@
   <img align="center" alt="Deywe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deywe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center" alt="Deywe-NodeJS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Deywe-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-
-
-<!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
-    
+  <img align="center" alt="Deywe-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>  
 </div>  
   
 <br><br><br>
