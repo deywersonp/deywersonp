@@ -14,13 +14,13 @@
 <br>
  <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Deywe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deywe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Deywe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Deywe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deywe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" alt="Deywe-NodeJS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Deywe-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Deywe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.typescriptlang.org/"><img align="center" alt="Deywe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">     
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img align="center" alt="Deywe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Deywe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Deywe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://nodejs.org/en/about/"><img  align="center" alt="Deywe-NodeJS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a>
+  <a href="https://www.postgresql.org/about/"><img align="center" alt="Deywe-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></a>
 </div>  
   
 <br><br><br>
@@ -38,8 +38,8 @@
   <a href = "mailto:deywerson.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deywerson-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-<br>
   
   ![Snake animation](https://github.com/deywersonp/deywersonp/blob/output/github-contribution-grid-snake.svg)
   
+ <br> 
 <p align="right"><strong><em>Thx for visiting ♥</em></strong></p>
