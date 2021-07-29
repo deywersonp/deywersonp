@@ -1,13 +1,18 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Deywerson Pereira</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Deywe!</h1>
 <h3 align="center">A Web Developer Student learning things to help people:heart:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deywersonp" alt="deywersonp"/> </p>
 
 
-- 🌱 I’m currently learning: **NodeJS**
-- 💬 Ask me about: **Everything! If I don't know the answer, I'll look for it !**
-- 😄 Pronouns: **he/him**
-
+  <img align="right" height="250" src="https://media.giphy.com/media/iSXGM40pQtT7W/giphy.gif">
   
+<div>
+  - 🌱 I’m currently learning: <strong>NodeJS</strong> <br>
+  - 💬 Ask me about: <strong>Everything! If I don't know the answer, I'll look for it !</strong> <br>
+  - 😄 Pronouns: <strong>he/him</strong>
+</div>
+
+
+
 <br>
  <div>
   <div style="display: inline_block"><br>
@@ -18,6 +23,7 @@
   <img align="center" alt="Deywe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center" alt="Deywe-NodeJS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" alt="Deywe-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+
 
 <!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
     
@@ -39,3 +45,5 @@
   <a href="https://www.linkedin.com/in/deywerson-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <br>
+  
+<p align="right"><strong><em>Thx for visiting ♥</em></strong></p>
