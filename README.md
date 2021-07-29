@@ -39,6 +39,7 @@
   <a href="https://www.linkedin.com/in/deywerson-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <br>
+  
   ![Snake animation](https://github.com/deywersonp/deywersonp/blob/output/github-contribution-grid-snake.svg)
   
 <p align="right"><strong><em>Thx for visiting ♥</em></strong></p>
