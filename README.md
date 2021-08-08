@@ -6,7 +6,7 @@
   <img align="right" height="250" src="https://media.giphy.com/media/iSXGM40pQtT7W/giphy.gif">
   
 <div>
-  - 🌱 I’m currently learning: <strong>NodeJS</strong> <br>
+  - 🌱 I’m currently delving into: <strong>NodeJS</strong> <br>
   - 💬 Ask me about: <strong>Everything! If I don't know the answer, I'll look for it !</strong> <br>
   - 😄 Pronouns: <strong>he/him</strong>
 </div>
