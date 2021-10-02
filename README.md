@@ -10,7 +10,8 @@
   - 💬 Ask me about: <strong>Everything! If I don't know the answer, I'll look for it !</strong> <br>
   - 😄 Pronouns: <strong>he/him</strong> <br>
   - 😻 Occupation: <strong>Builder of the future through technology</strong> <br>
-  - 💖 Love: <strong>Animes, PC Game's, Books, Psychology, Animals & Music</strong>
+  - 💖 Love: <strong>Animes, PC Game's, Books, Psychology, Animals & Music</strong> <br>
+  - 😼 My Dream? <strong>Be a HERO!</strong>
 </div>
 
 <br>
