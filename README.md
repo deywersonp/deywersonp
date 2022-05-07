@@ -1,12 +1,12 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Deywe!</h1>
-<h3 align="center">A Web Developer learning things to help people:heart:</h3>
+<h3 align="center">A FullStack Developer learning things to help people:heart:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deywersonp" alt="deywersonp"/> </p>
 
 
   <img align="right" height="250" src="https://media.giphy.com/media/iSXGM40pQtT7W/giphy.gif">
   
 <div>
-  - 🌱 I’m currently delving into: <strong>NodeJS & ReactJS</strong> <br>
+  - 🌱 I’m currently delving into: <strong>ReactJS & React Native</strong> <br>
   - 💬 Ask me about: <strong>Everything! If I don't know the answer, I'll look for it !</strong> <br>
   - 😄 Pronouns: <strong>he/him</strong> <br>
   - 😻 Occupation: <strong>Builder of the future through technology</strong> <br>
@@ -19,7 +19,8 @@
   <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Deywe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Deywe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">     
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img align="center" alt="Deywe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img align="center" alt="Deywe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
+  <a href="https://reactnative.dev/"><img align="center" alt="Deywe-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Deywe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Deywe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://nodejs.org/en/about/"><img  align="center" alt="Deywe-NodeJS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a>
