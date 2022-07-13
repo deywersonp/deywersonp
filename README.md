@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deywersonp" alt="deywersonp"/> </p>
 
 
-  <img align="right" height="250" src="https://media.giphy.com/media/iSXGM40pQtT7W/giphy.gif">
+<img align="right" height="200" src="https://media.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif">
   
+
 <div>
   - 🌱 I’m currently delving into: <strong>ReactJS</strong> <br>
   - 💬 Ask me about: <strong>Everything! If I don't know the answer, I'll look for it !</strong> <br>
